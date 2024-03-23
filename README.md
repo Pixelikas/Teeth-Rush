@@ -7,6 +7,6 @@ https://pixelikas.itch.io/teeth-rush<br>
 
 NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
-<br>
+<br><br>
 ![print-teeth](https://github.com/Pixelikas/Teeth-Rush/assets/67108278/999b3fb0-6a3a-46ed-b15c-a116098168d8)
 
